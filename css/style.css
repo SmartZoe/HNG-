@@ -1,0 +1,84 @@
+.header {
+    position: absolute;
+    width: 432px;
+    height: 36px;
+    left: 477px;
+    top: 163px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 30px;
+    letter-spacing: 0.16em;
+    
+    color: #000000;
+    }
+
+    .p {
+        position: absolute;
+        width: 1356px;
+        height: 36px;
+        left: 42px;
+        top: 396px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 30px;
+        letter-spacing: 0.16em;
+        
+        color: #000000;
+    }
+
+    .h2 {
+        position: absolute;
+        width: 350px;
+        height: 20px;
+        left: 540px;
+        top: 233px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 30px;
+        letter-spacing: 0.16em;
+        
+        color: #9B51E0;
+    }
+
+    .content {
+        position: absolute;
+        width: 201px;
+        height: 216px;
+        left: 621px;
+        top: 540px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 30px;
+        letter-spacing: 0.16em;
+        
+        color: #000000;
+    }
+
+    .line3 {
+        position: absolute;
+        width: 368px;
+        height: 36px;
+        left: 536px;
+        top: 297px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        line-height: normal;
+        font-size: 30px;
+        letter-spacing: 0.16em;
+        
+        color: #000000
+    }
